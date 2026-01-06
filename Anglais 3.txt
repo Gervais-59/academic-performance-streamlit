@@ -1,0 +1,31 @@
+Student,Gender,Age,Study_hours_per_week,Sleep_hours_per_night,Social_media_scroll_hours_per_day,Phone_use_while_studying,Study_rhythm,Study_habits_affect_performance
+S1,Male,19,7,7,2.0,Often,Before exams,Yes
+S2,Female,20,12,7,1.5,Sometimes,Regularly,Yes
+S3,Male,21,7,6,2.5,Often,Before exams,Yes
+S4,Male,22,4,4,5.5,Always,Before exams,Yes
+S5,Female,20,12,7,1.5,Sometimes,Regularly,Yes
+S6,Female,21,7,7,1.8,Never,Regularly,Yes
+S7,Male,23,7,6,2.7,Often,Before exams,Yes
+S8,Male,24,16,7,1.2,Sometimes,Regularly,Yes
+S9,Female,22,7,7,2.3,Often,Before exams,Yes
+S10,Male,19,4,6,4.8,Always,Before exams,No
+S11,Female,20,12,7,1.6,Sometimes,Regularly,Yes
+S12,Male,21,7,7,2.1,Often,Before exams,Yes
+S13,Female,22,7,6,2.8,Often,Before exams,Yes
+S14,Male,23,16,7,1.0,Never,Regularly,Yes
+S15,Female,24,12,7,1.7,Sometimes,Regularly,Yes
+S16,Male,19,4,4,5.8,Always,Before exams,No
+S17,Male,20,7,6,2.6,Often,Before exams,Yes
+S18,Female,21,12,7,1.6,Sometimes,Regularly,Yes
+S19,Female,22,7,7,2.2,Often,Before exams,Yes
+S20,Male,23,7,7,2.0,Sometimes,Regularly,Yes
+S21,Female,20,4,6,4.5,Often,Before exams,No
+S22,Male,21,12,7,1.5,Sometimes,Regularly,Yes
+S23,Female,22,7,7,2.1,Often,Before exams,Yes
+S24,Male,24,16,8,0.8,Never,Regularly,Yes
+S25,Female,19,7,7,2.4,Often,Before exams,Yes
+S26,Male,20,12,7,1.6,Sometimes,Regularly,Yes
+S27,Female,21,7,6,2.9,Often,Before exams,Yes
+S28,Male,22,4,4,5.6,Always,Before exams,No
+S29,Female,23,12,7,1.4,Sometimes,Regularly,Yes
+S30,Male,24,7,7,2.2,Often,Before exams,Yes
