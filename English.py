@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
+from sklearn.preprocessing import StandardScaler 
+from sklearn.linear_model import LogisticRegression
 
 st.set_page_config(
     page_title="English Show App",
@@ -58,8 +60,6 @@ y = df["Study_habits_affect_performance"]
 # --------------------------------------------------
 # MODEL
 # --------------------------------------------------
-from sklearn.preprocessing import StandardScaler
-from sklearn.linear_model import LogisticRegression
 
 scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
@@ -175,5 +175,6 @@ st.markdown(
     "<h3 style='text-align:center;'>🙏 Thank you for your attention</h3>",
     unsafe_allow_html=True
 )
+
 
 
