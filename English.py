@@ -1,4 +1,3 @@
-import sklearn 
 import pandas as pd
 import numpy as np
 import streamlit as st
@@ -176,3 +175,4 @@ st.markdown(
     "<h3 style='text-align:center;'>🙏 Thank you for your attention</h3>",
     unsafe_allow_html=True
 )
+
