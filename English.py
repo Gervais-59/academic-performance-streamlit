@@ -12,7 +12,7 @@ st.set_page_config(
 # --------------------------------------------------
 # LOAD DATA
 # --------------------------------------------------
-df = pd.read_csv("C:/Users/KONAN GERVAIS/Desktop/Anglais 3.txt")
+df = pd.read_csv("Anglais 3.txt")
 
 st.title("Data Displayment")
 st.write("Here is the dataset")
@@ -175,4 +175,5 @@ st.markdown(
     "<h3 style='text-align:center;'>🙏 Thank you for your attention</h3>",
     unsafe_allow_html=True
 )
+
 
